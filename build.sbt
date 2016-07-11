@@ -10,8 +10,8 @@ libraryDependencies ++= Seq(
   "com.lihaoyi" %%% "upickle" % "0.4.1"
 )
 
-/*
+
 workbenchSettings
 bootSnippet := "com.nysu.TeamSearch().main();"
 refreshBrowsers <<= refreshBrowsers.triggeredBy(fastOptJS in Compile)
-*/
+
