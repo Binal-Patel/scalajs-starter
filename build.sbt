@@ -9,3 +9,9 @@ libraryDependencies ++= Seq(
   "com.lihaoyi" %%% "scalatags" % "0.4.6",
   "com.lihaoyi" %%% "upickle" % "0.4.1"
 )
+
+/*
+workbenchSettings
+bootSnippet := "com.nysu.TeamSearch().main();"
+refreshBrowsers <<= refreshBrowsers.triggeredBy(fastOptJS in Compile)
+*/
