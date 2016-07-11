@@ -1,8 +1,8 @@
-package com.hbc.nysu
+package com.nysu
 
 import scala.scalajs.js.JSApp
 
-object HelloApp extends JSApp {
+object TeamSearch extends JSApp {
   def main(): Unit = {
     println("Hello world!")
   }
