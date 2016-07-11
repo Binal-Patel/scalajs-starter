@@ -1,6 +1,6 @@
 enablePlugins(ScalaJSPlugin)
 
-name := "teamsearch"
+name := "acmeteamsearch"
 
 scalaVersion := "2.11.7"
 
