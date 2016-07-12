@@ -1,8 +1,7 @@
 package com.nysu
 
 import scala.scalajs.js.JSApp
-import com.nysu.model.Team
-import com.nysu.model.TeamBio
+import com.nysu.model.{ Team, TeamBio }
 
 object TeamSearch extends JSApp {
 
